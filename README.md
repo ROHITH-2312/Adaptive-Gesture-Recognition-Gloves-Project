@@ -183,12 +183,12 @@ Tested across 180 controlled physical trials (6 calibrated gestures $\times$ 30 
 
 ---
 
-## 👥 Authors & Team Credits (Team 13)
+## 👥 Authors & Team Credits
 
-* **Harieesh S** (CB.SC.U4CSE25122) — *Sensing & Calibration Subsystem*
-* **Rithik S V** (CB.SC.U4CSE25145) — *Classification Engine & 7D Euclidean Metric*
-* **Rohith Sivakumar** (CB.SC.U4CSE25148) — *Output Systems & Gemini AI Cloud Bridge*
-* **Shyam Dharshan Soundararajan** (CB.SC.U4CSE25155) — *Persistence & Finite State Machine*
+* **Harieesh S** — *Persistence & Finite State Machine*
+* **Rithik S V** — *Sensing & Calibration Subsystem*
+* **Rohith Sivakumar** — *Classification Engine & 7D Euclidean Metric*
+* **Shyam Dharshan Soundararajan** — *Output Systems & Gemini AI Cloud Bridge*
 
 ---
 
